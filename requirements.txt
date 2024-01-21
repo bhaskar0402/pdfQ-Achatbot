@@ -1,0 +1,9 @@
+tiktoken
+pypdf
+openai
+langchain
+pandas 
+numpy
+datasets
+cassio
+pypdf2
